@@ -1,0 +1,11 @@
+{
+	"name": "filetree-indexer",
+	"url": "https://github.com/justin.espedal/haxe-filetree-indexer",
+	"license": "MIT",
+	"tags": [],
+	"description": "Hash filetree contents to determine changes",
+	"version": "0.0.1",
+	"classPath": "src/",
+	"releasenote": "",
+	"contributors": [ "justin.espedal" ]
+}
